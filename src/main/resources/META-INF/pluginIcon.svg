@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <!-- cylinder body -->
+  <rect x="0" y="4" width="40" height="31" rx="2" fill="#C0161D"/>
+  <!-- top ellipse -->
+  <ellipse cx="20" cy="5" rx="20" ry="5" fill="#E03040"/>
+  <!-- bottom ellipse -->
+  <ellipse cx="20" cy="34" rx="20" ry="5" fill="#9A1018"/>
+
+  <text x="20" y="20" font-family="Arial, sans-serif" font-size="6" font-weight="bold"
+        text-anchor="middle" fill="#1F2937">Kingbase
+  </text>
+  <text x="20" y="28" font-family="Arial, sans-serif" font-size="6" font-weight="bold"
+        text-anchor="middle" fill="#1F2937">JDBC
+  </text>
+
+
+</svg>
