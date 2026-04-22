@@ -1,8 +1,8 @@
 # Kingbase JDBC Driver
 
 ![Build](https://github.com/tjlee/Kingbase-JDBC-Driver/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/31406)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/31406)
 
 <!-- Plugin description -->
 Bundles and automatically installs the **KingbaseES JDBC driver** into JetBrains DataGrip and other IntelliJ-based IDEs.
